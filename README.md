@@ -3,6 +3,6 @@ A javascript bookmarklet of a cellular automata implementation (Game of Life) in
 
 ## Usage
 
-Drag this **[this bookmarklet](https://cdn.rawgit.com/giuliandrimba/ghub-game-of-life/r1/bookmarklet.html)** to your bookmarks bar and let's shake your commit activity!
+Drag this **[this bookmarklet](https://cdn.rawgit.com/giuliandrimba/ghub-game-of-life/r2/bookmarklet.html)** to your bookmarks bar and let's shake your commit activity!
 
 ![ScreenShoot](screen.png)
