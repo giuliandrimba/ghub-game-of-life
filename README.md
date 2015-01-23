@@ -1,5 +1,5 @@
 # ghub-game-of-life
-A javascript bookmarklet of a cellular automata implementation (Game of Life) in Github's calendar contributions
+A javascript bookmarklet that turns Github's contributions calendar into a cellular automata (Game of Life).
 
 ## Usage
 
